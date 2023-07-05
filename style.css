@@ -11,10 +11,15 @@ h1 {
     padding: 10px;
     /* background-color: white; */
     text-align: center;
-    
 }
-img{
-    margin:10px 20px 10px 10px;
+h2 {
+    color: white;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 30px 20px 20px 20px;
+}
+.friends, .pc , .books{
+    margin:10px 20px 20px 20px;
     padding: 5px;
     border-radius: 25px;
     width: 300px;
@@ -22,6 +27,15 @@ img{
     border: 2px solid burlywood;
     
 }
+.batman {
+    margin: 10px 20px 20px 20px;
+        padding: 5px;
+        border-radius: 25px;
+        width: 130px;
+        height: 200px;
+        border: 2px solid rgb(216, 210, 202);
+}
+
 #welcome {
     color: white;
     margin:0 20px 20px 20px ;
@@ -33,12 +47,13 @@ img{
     border-right: 25px solid peru;
     border-radius: 20px;
     color:darkred;
-    height: 100px;
+    height: 120px;
     margin: 0 20px 20px 20px;
     
 
 }
-p{
+p, h3{
     padding: 10px;
 }
+
 
